@@ -1,3 +1,5 @@
+<img width="1400" height="224" alt="image" src="https://github.com/user-attachments/assets/b1bc319a-28ff-488c-a886-1003156f5043" />
+
 # Descope TanStack Router Sample App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
